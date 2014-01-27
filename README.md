@@ -1,11 +1,11 @@
+This project is deprecated. Please go [https://github.com/zjhzyyk/slide-maker](https://github.com/zjhzyyk/slide-maker) for a new version of slide maker.
+
 #Impressplus.js
-A framework for easily creating Prezi-style presentation. [Check out the live demo (use right arrow key to switch to next slide)](http://www.prism.gatech.edu/~yyang367/slide-demo/presentation.htm). 
+A framework for easily creating Prezi-style presentation. 
 
 I got the idea from Impress.js. Impressplus.js is based on CSS3 transforms and transition. What is different from Impress.js is that with Impressplus.js, you can interact with the canvas by dragging the canvas using your mouse or zooming the it using mouse wheel when you are editing or presenting, while in Impress.js 
 
 The code is completely library agnostic: No jQuery, Prototype or similar is required.
-
-I made an online graphical presentation authoring tool based on Impressplus.js. The website is at http://www.prism.gatech.edu/~yyang367/slidegen.html
 
 ##Instruction
 1. All slide nodes should be in class "pslide" and be children of a parent node with id "presentation".
